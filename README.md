@@ -2,6 +2,8 @@
 
 I designed this game to introduce beginners to the exciting world of frontend development in my position as a Programming Instructor at Science Venture! This interactive game serves as a fun and engaging way to learn the basics of HTML, CSS, and JavaScript.
 
+Try it here! https://khushbooc8.github.io/Memory-Card-Game/
+
 ## How to Play
 1. Click on a card to reveal its content.
 2. Try to find matching pairs of cards with the same content.
